@@ -2,6 +2,9 @@
 @import url('./__lead/page__lead.css');
 @import url('./__intro/page__intro.css');
 @import url('./__photo-grid/page__photo-grid.css');
+@import url('./__places/page__places.css');
+@import url('./__cover/page__cover.css');
+@import url('./__footer/page__footer.css');
 
 .page{
     width: 100%;

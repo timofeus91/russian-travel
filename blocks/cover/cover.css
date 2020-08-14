@@ -1,0 +1,14 @@
+@import url('./__title/cover__title.css');
+@import url('./__subtitle/cover__subtitle.css');
+
+.cover{
+    max-width: 1184px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url('../../images/cover-trains.jpg');
+    background-size: cover;
+    min-height: 740px;
+    
+}

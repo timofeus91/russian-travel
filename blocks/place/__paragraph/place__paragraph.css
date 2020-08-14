@@ -1,0 +1,16 @@
+
+.place__paragraph{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 163%;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.place__paragraph:nth-child(2){
+    margin-top: 24px;
+
+}
