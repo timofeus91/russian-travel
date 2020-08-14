@@ -1,0 +1,10 @@
+
+.header__links-item{
+    margin: 0;
+    padding: 0;
+
+}
+
+.header__links-item:first-child{
+    margin-right: 18px;
+}
