@@ -1,0 +1,9 @@
+
+.footer__links-item{
+    margin: 0 0 0 18px;
+    padding: 0;
+}
+
+.footer__links-item:first-child{
+    margin: 0;
+}
