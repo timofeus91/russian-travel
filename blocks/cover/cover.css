@@ -14,17 +14,17 @@
 }
 
 
-@media screen and (max-width: 1279){
+@media screen and (max-width: 1279px){
     .cover{
-        max-width: 1024px;
+        max-width: 1184px;
         min-height: 640px;
         
     }
 }
 
-@media screen and (max-width: 1023){
+@media screen and (max-width: 1023px){
     .cover{
-        max-width: 768px;
+        max-width: 1023px;
         min-height: 480px;
         
     }
@@ -32,7 +32,7 @@
 
 @media screen and (max-width: 420px){
     .cover{
-        max-width: 320px;
+        max-width: 420px;
         min-height: 200px;
         
     }
