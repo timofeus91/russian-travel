@@ -10,3 +10,18 @@
     padding: 0;
     max-width: 690px;
 }
+
+
+
+
+@media screen and (max-width: 430px){
+    .intro__title{
+        
+        font-size: 18px;
+        line-height: 22px;
+        padding-right: 80px;
+
+
+
+    }
+}
