@@ -7,3 +7,17 @@
 .footer__links-item:first-child{
     margin: 0;
 }
+
+@media screen and (max-width: 600px){
+    .footer__links-item{
+        margin: 0 0 32px;
+        padding: 0;
+        }
+        .footer__links-item:first-child{
+            margin: 0 0 32px;
+        }
+
+        .footer__links-item:last-child{
+            margin: 0 0 48px;
+        }
+}
