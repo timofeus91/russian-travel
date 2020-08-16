@@ -12,3 +12,28 @@
     position: relative;
     
 }
+
+
+@media screen and (max-width: 1279){
+    .cover{
+        max-width: 1024px;
+        min-height: 640px;
+        
+    }
+}
+
+@media screen and (max-width: 1023){
+    .cover{
+        max-width: 768px;
+        min-height: 480px;
+        
+    }
+}
+
+@media screen and (max-width: 420px){
+    .cover{
+        max-width: 320px;
+        min-height: 200px;
+        
+    }
+}
