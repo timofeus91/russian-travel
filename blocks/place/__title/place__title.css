@@ -15,6 +15,11 @@
     .place__title{
         font-size: 42px;
         line-height: 46px;
+        
+    }
+    
+    .place__title:first-child{
+        padding-right: 30px;
     }
 
 }
@@ -23,6 +28,7 @@
     .place__title{
         font-size: 32px;
         line-height: 35px;
+        margin: 0 16px 0;
         
     }
 
