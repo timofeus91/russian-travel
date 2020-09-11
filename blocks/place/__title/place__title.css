@@ -15,12 +15,11 @@
     .place__title{
         font-size: 42px;
         line-height: 46px;
+        padding-right: 30px;
         
     }
     
-    .place__title:first-child{
-        padding-right: 30px;
-    }
+    
 
 }
 
